@@ -25,3 +25,31 @@
   Always curious, I am currently exploring networking and database automation.<br>
   Currently looking for an <strong>apprenticeship (alternance)</strong> in a tech company.
 </p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css&perline=7" alt="Languages" />
+</p>
+
+<p align="center"><strong>Frameworks &amp; Libraries</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=7" alt="Frameworks" />
+</p>
+
+<p align="center"><strong>Databases &amp; Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker,git,github,vscode&perline=7" alt="Tools" />
+</p>
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostaphaAYEB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2EA44F&icon_color=2EA44F" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostaphaAYEB&layout=compact&langs_count=8&hide_border=true&title_color=2EA44F" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MostaphaAYEB&hide_border=true&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F" alt="GitHub Streak" />
+</p>
