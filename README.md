@@ -46,10 +46,19 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostaphaAYEB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2EA44F&icon_color=2EA44F" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostaphaAYEB&layout=compact&langs_count=8&hide_border=true&title_color=2EA44F" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MostaphaAYEB&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=2EA44F&icon_color=2EA44F&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostaphaAYEB&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&text_color=24292F&title_color=2EA44F&icon_color=2EA44F&hide_border=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MostaphaAYEB&layout=compact&langs_count=8&bg_color=0D1117&text_color=C9D1D9&title_color=2EA44F&icon_color=2EA44F&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostaphaAYEB&layout=compact&langs_count=8&bg_color=FFFFFF&text_color=24292F&title_color=2EA44F&icon_color=2EA44F&hide_border=true" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MostaphaAYEB&hide_border=true&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MostaphaAYEB&hide_border=true&background=0D1117&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=MostaphaAYEB&hide_border=true&background=FFFFFF&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub Streak" />
+  </picture>
 </p>
